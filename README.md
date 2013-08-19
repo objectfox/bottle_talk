@@ -1,4 +1,4 @@
-# Introduction to Bottle, the Python Web Microframework
+# Introduction to Bottle
 
 This is a simple introduction to the important features of [bottle](http://www.bottlepy.org), the python web microframework.  It includes walkthroughs of:
 
